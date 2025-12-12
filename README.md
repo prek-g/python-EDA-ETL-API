@@ -29,13 +29,13 @@ A fully automated **ETL pipeline** that fetches cryptocurrency market data from 
 - Uses a scheduler for fully **automated daily execution**.  
 - Secure handling of credentials using `.env` files.  
 
-**Folder:** [`Crypto`](Crypto/)  
+**Folder:** [`Crypto`](Crypto_Automated_Daily_Report/)  
 **Files included:** Python script, sample CSV output, `.env.example`.
 
 ---
 
 ### 3. **Data Cleaning & ETL Utility**
-![data_cleaning_example](ETL/data_cleaning_example.png)
+![data_cleaning_example](ETL/terminal.png)
 
 A **reusable Python function** to clean datasets (CSV or Excel) for analysis or further processing.  
 
@@ -76,6 +76,7 @@ This portfolio demonstrates my ability to:
 - Build reusable data cleaning utilities (ETL project).
 - Automate data extraction, transformation, and reporting workflows (Crypto ETL project).
 - Integrate Python with APIs, email systems, and scheduling for real-world automation.
+
 
 
 
