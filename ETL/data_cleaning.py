@@ -110,4 +110,5 @@ if __name__ == "__main__":
     print("Please enter your data path and name of the file you want to clean")
     data_path='day19_walmart.xlsx'
     data_name='wlm'
+
     data_cleaning_function(data_path, data_name)
