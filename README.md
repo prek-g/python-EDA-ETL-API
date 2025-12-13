@@ -70,16 +70,6 @@ A **reusable Python function** to clean datasets (CSV or Excel) for analysis or 
 git clone https://github.com/prek-g/python-EDA-ETL-API.git
 ```
 
-Conclusion
-
-This portfolio demonstrates my ability to:
-- Analyze and visualize data effectively (EDA project).
-- Build reusable data cleaning utilities (ETL project).
-- Automate data extraction, transformation, and reporting workflows (Crypto ETL project).
-- Integrate Python with APIs, email systems, and scheduling for real-world automation.
-
-
-
 
 
 
